@@ -11,3 +11,7 @@ console.log(footer);
 const payment = "intregated payment."
 console.log(payment);
 
+const upi = "intregated the upi"
+console.log(upi)
+
+
